@@ -33,7 +33,8 @@ keyBinds.set("5", "ride");
 keyBinds.set("6", "snare");
 keyBinds.set("7", "tink");
 keyBinds.set("8", "tom");
-// keyBinds.set("9", "")
+// "Secret" sound file, intentionally not listed
+keyBinds.set("9", "lightsaber");
 
 function keyPressed(drum){
     new Audio(`sounds/${drum}.wav`).play(); }
