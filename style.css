@@ -15,6 +15,11 @@ body{
 .button:active{
     border: 2px inset #afafaf; }
 
+.drumkit{
+    background-color: #fff;
+    width: 16%;
+    margin: auto; }
+
 legend{
     border: 1px solid #000;
     background-color: #fff;
