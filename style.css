@@ -2,7 +2,8 @@ body{
     background-color: #4581da;
     font-family: Arial;
     font-size: 19px;
-    height: fit-content; }
+    height: fit-content;
+    width: 330px; }
 
 .button{
     background-color: #afafaf;
